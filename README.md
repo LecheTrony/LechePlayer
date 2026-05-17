@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🍼 LechePlayer v7.8</h1>
+  <h1>LechePlayer v1.0</h1>
   <p><strong>Un reproductor de música avanzado, ligero y de interfaz moderna inspirado en paletas de colores pastel.</strong></p>
 
   <p>
